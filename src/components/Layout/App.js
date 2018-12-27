@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './App.css';
+import './App.less';
 
 import Header from '../Header/Header';
 import Content from '../Content/Content';
